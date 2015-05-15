@@ -45,6 +45,13 @@ public class Namer extends JFrame
                         "Moron",
                         JOptionPane.INFORMATION_MESSAGE);
                 }
+                else{
+                    JOptionPane.showMessageDialog(
+                            Namer.this,
+                            "Good Morning " + name,
+                            "Salutations",
+                            JOptionPane.INFORMATION_MESSAGE);
+                }
                 textName.requestFocus();
             }
 
