@@ -1,3 +1,4 @@
+package com.github.crazcalm.SwingChapter3;
 import javax.swing.*;
 import java.awt.event.*;
 
@@ -7,6 +8,8 @@ public class Namer extends JFrame
         new Namer();
     }
 
+    private JTextField textName;
+    private JButton buttonOK;
     public Namer(){
         this.setSize(325, 100);
         this.setTitle("Who are you?");
@@ -16,7 +19,7 @@ public class Namer extends JFrame
         JPanel panel1 = new JPanel();
         panel1.add(new JLabel("Enter your name: "));
 
-        textName = new TextField(15);
+        textName = new JTextField(15);
         panel1.add(textName);
         
         buttonOK = new JButton("OK");
@@ -24,15 +27,15 @@ public class Namer extends JFrame
         panel1.add(buttonOK);
         
         this.add(panel1);
-
-        this.setVisibility(true);
+        this.setVisible(true);
+        //this.setVisibility(true);
     }
 
     private class ButtonListener implements ActionListener
     {
         public void actionPerformed(ActionEvent e)
         {
-            if(e.getSource == buttonOK)
+            if(e.getSource() == buttonOK)
             {
                 String name = textName.getText();
 
