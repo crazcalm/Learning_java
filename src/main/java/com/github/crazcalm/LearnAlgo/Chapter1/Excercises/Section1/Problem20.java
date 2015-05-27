@@ -5,7 +5,7 @@ package com.github.crazcalm.LearnAlgo.Chapter1.Excercises.Section1;
  */
 public class Problem20 {
     public static void main(String[] args){
-        for(int i=0; i < 10; i++){
+        for(int i=0; i < 20; i++){
             System.out.print("case" + i + ": ");
             System.out.println(Problem20.stirling((double)i));
         }
