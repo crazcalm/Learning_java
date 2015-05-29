@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="LearnAlgo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/java/com/github/crazcalm/LearnAlgo/stdlib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/com/github/crazcalm/LearnAlgo/stdlib-package.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/com/github/crazcalm/LearnAlgo/algs4-package.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/java/com/github/crazcalm/LearnAlgo/algs4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
