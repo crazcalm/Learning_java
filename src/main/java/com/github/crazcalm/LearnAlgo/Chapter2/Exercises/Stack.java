@@ -7,6 +7,33 @@ import java.util.NoSuchElementException;
  */
 public class Stack <Item> implements Iterable<Item> {
 
+    public static void main(String[] args){
+        Stack <Integer> test = new Stack<Integer>();
+
+        System.out.println("empty?" + test.isEmpty());
+
+        test.push(1);
+        test.push(2);
+        test.push(3);
+        test.push(4);
+        test.push(5);
+        System.out.println("add 1,2,3,4,5");
+
+        System.out.println("pop: " + test.pop());
+
+        for(Integer i: test){
+            System.out.println("size: " + test.size());
+            System.out.println("current node: " + i);
+        }
+
+        int limit = test.size();
+        for(int z=0; z<limit; z++){
+            System.out.println("pop: " + test.pop());
+            System.out.println("size: " + test.size());
+        }
+
+    }
+
     private class Node{
         // nested class to define nodes
         Item item;
