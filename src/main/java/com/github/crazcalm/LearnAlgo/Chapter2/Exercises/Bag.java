@@ -19,7 +19,7 @@ public class Bag <Item> implements Iterable<Item>{
     public static void main(String[] args){
         Bag<Integer> test = new Bag<>();
 
-        System.out.println("size: "+ test.size());
+        System.out.println("isEmpty: "+ test.isEmpty());
         test.add(1);
         test.add(2);
         test.add(3);
@@ -31,6 +31,7 @@ public class Bag <Item> implements Iterable<Item>{
         }
 
         System.out.println("size: " + test.size());
+        System.out.println("isEmpty: "+ test.isEmpty());
     }
 
     public void add(Item item){
@@ -44,6 +45,8 @@ public class Bag <Item> implements Iterable<Item>{
     public int size(){
         return N;
     }
+
+    public boolean isEmpty(){ return first == null; }
 
     public Iterator<Item> iterator() {return new ListIterator();}
 
