@@ -3,30 +3,41 @@ package main.java.com.github.crazcalm.LearnAlgo.Chapter2.Exercises;
 /**
  * Created by marcus on 5/31/15.
  */
-public class FixedCapacityStackOfStrings {
+public class FixedCapacityStackOfStrings<Item> {
 
-    String[] a;
+    Item [] a;
     int N;
 
     public FixedCapacityStackOfStrings(int cap){
-        a = new String[cap];
+        a = (Item[]) new Object[cap];
     }
 
     public boolean isEmpty(){ return N == 0; }
 
-    public void push(String item){
+    public void push(Item item){
+        if(N == a.length){
+            reSize(2 * a.length);
+        }
         a[N++] = item;
     }
 
-    public String pop(){
+    public Item pop(){
         return a[--N];
     }
 
     public int size(){ return N; }
 
+    public void reSize(int max){
+        Item[] temp = (Item[]) new Object[max];
+        for(int i=0; i<N; i++){
+            temp[i] = a[i];
+        }
+        a = temp;
+    }
+
     public static void main(String[] args){
-        FixedCapacityStackOfStrings s;
-        s = new FixedCapacityStackOfStrings(100);
+        FixedCapacityStackOfStrings<String> s;
+        s = new FixedCapacityStackOfStrings<String>(5);
         String[] test = {"to", "be", "or", "to", "-", "be",
                 "-", "-", "that", "-", "-", "-", "is"};
 
