@@ -17,7 +17,7 @@ public class Bag <Item> implements Iterable<Item>{
     private int N;
 
     public static void main(String[] args){
-        Bag<Integer> test = new Bag<>();
+        Bag<Integer> test = new Bag<Integer>();
 
         System.out.println("isEmpty: "+ test.isEmpty());
         test.add(1);
