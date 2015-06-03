@@ -1,4 +1,4 @@
-package main.java.com.github.crazcalm.LearnAlgo.Chapter2.Exercises;
+package com.github.crazcalm.LearnAlgo.Chapter2.Exercises;
 
 /**
  * Created by marcus on 5/31/15.
