@@ -2,65 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbebd1ca-cb5a-48e2-b117-8c1567cbaf32" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Learning_java/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/Bag$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Learning_java/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/Bag$ListIterator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Learning_java/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/Bag$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Learning_java/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/Bag.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Learning_java/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/FixedCapacityStackOfStrings.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Learning_java/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/Queue$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Learning_java/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/Queue$ListIterator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Learning_java/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/Queue$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Learning_java/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/Queue.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Learning_java/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/Stack$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Learning_java/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/Stack$ListIterator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Learning_java/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/Stack$Node.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Learning_java/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/Stack.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Learning_java/main/java/com/github/crazcalm/LearnAlgo/algs4-package.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Learning_java/main/java/com/github/crazcalm/LearnAlgo/algs4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Learning_java/main/java/com/github/crazcalm/LearnAlgo/stdlib-package.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Learning_java/main/java/com/github/crazcalm/LearnAlgo/stdlib.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Learning_java/main/java/com/github/crazcalm/OpenCV/libopencv_java2411.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Learning_java/main/java/com/github/crazcalm/OpenCV/opencv-2411.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Learning_java/main/java/com/github/crazcalm/OpenCV/test.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/com/github/crazcalm/PersonTest.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/SwingChapter2/ClickMe.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/SwingChapter2/ClickMe.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/SwingChapter2/ClickMe2$1.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/SwingChapter2/ClickMe2$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/SwingChapter2/ClickMe2$ClickListener.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/SwingChapter2/ClickMe2$ClickListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/SwingChapter2/ClickMe2.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/SwingChapter2/ClickMe2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/Primes/CountPrimes.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/Primes/CountPrimes.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/Bash/ExecuteShellCommands.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/Bash/ExecuteShellCommands.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/Recursive/Factorial.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/Recursive/Factorial.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/OpenCV/HelloWorld.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/OpenCV/HelloWorld.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearnInterfaces/Human.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearnInterfaces/Human.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearningJava.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearningJava.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/SwingChapter3/Namer$1.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/SwingChapter3/Namer$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/SwingChapter3/Namer$ButtonListener.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/SwingChapter3/Namer$ButtonListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/SwingChapter3/Namer.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/SwingChapter3/Namer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/Person.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/Person.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearnInterfaces/Person.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearnInterfaces/Person.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/SwingOrderPizza/Pizza$1.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/SwingOrderPizza/Pizza$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/SwingOrderPizza/Pizza$ButtonListener.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/SwingOrderPizza/Pizza$ButtonListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/SwingOrderPizza/Pizza.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/SwingOrderPizza/Pizza.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/Games/Player$Move.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/Games/Player$Move.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/Games/Player.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/Games/Player.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearnAlgo/Chapter1/Excercises/Section1/Problem1.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearnAlgo/Chapter1/Excercises/Section1/Problem1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearnAlgo/Chapter1/Excercises/Section1/Problem11.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearnAlgo/Chapter1/Excercises/Section1/Problem11.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearnAlgo/Chapter1/Excercises/Section1/Problem18.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearnAlgo/Chapter1/Excercises/Section1/Problem18.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearnAlgo/Chapter1/Excercises/Section1/Problem2.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearnAlgo/Chapter1/Excercises/Section1/Problem2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearnAlgo/Chapter1/Excercises/Section1/Problem20.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearnAlgo/Chapter1/Excercises/Section1/Problem20.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearnAlgo/Chapter1/Excercises/Section1/Problem3.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearnAlgo/Chapter1/Excercises/Section1/Problem3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearnAlgo/Chapter1/Excercises/Section1/Problem4.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearnAlgo/Chapter1/Excercises/Section1/Problem4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearnAlgo/Chapter1/Excercises/Section1/Problem5.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearnAlgo/Chapter1/Excercises/Section1/Problem5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearnAlgo/Chapter1/Excercises/Section1/Problem6.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearnAlgo/Chapter1/Excercises/Section1/Problem6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearnAlgo/Chapter1/Excercises/Section1/Problem7.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearnAlgo/Chapter1/Excercises/Section1/Problem7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearnAlgo/Chapter1/Excercises/Section1/Problem8.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearnAlgo/Chapter1/Excercises/Section1/Problem8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearnAlgo/Chapter1/Excercises/Section1/Problem9.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/LearnAlgo/Chapter1/Excercises/Section1/Problem9.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/SwingHelloWorld.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/SwingHelloWorld.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/github/crazcalm/Games/TicTacToe.class" afterPath="$PROJECT_DIR$/target/classes/com/github/crazcalm/Games/TicTacToe.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/Bag.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/Bag.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Learning_java.iml" afterPath="$PROJECT_DIR$/Learning_java.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/FixedCapacityStackOfStrings.class" afterPath="$PROJECT_DIR$/target/classes/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/FixedCapacityStackOfStrings.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/FixedCapacityStackOfStrings.java" afterPath="$PROJECT_DIR$/src/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/FixedCapacityStackOfStrings.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Learning_java.iws" />
@@ -106,6 +49,7 @@
             <state vertical-scroll-proportion="0.0">
               <caret line="78" column="4" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="37" />
               <folding>
+                <element signature="imports" expanded="false" />
                 <element signature="e#1289#1290#0" expanded="false" />
                 <element signature="e#1325#1326#0" expanded="false" />
                 <element signature="e#1349#1350#0" expanded="false" />
@@ -121,8 +65,12 @@
             <state vertical-scroll-proportion="0.0">
               <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#423#432#0" expanded="true" />
+                <element signature="e#994#995#0" expanded="false" />
+                <element signature="e#1018#1019#0" expanded="false" />
+                <element signature="e#1271#1272#0" expanded="false" />
+                <element signature="e#1317#1318#0" expanded="false" />
+                <element signature="e#1348#1349#0" expanded="false" />
+                <element signature="e#1413#1414#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -131,8 +79,8 @@
       <file leaf-file-name="FixedCapacityStackOfStrings.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/FixedCapacityStackOfStrings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.74745417">
-              <caret line="39" column="53" selection-start-line="39" selection-start-column="53" selection-end-line="39" selection-end-column="53" />
+            <state vertical-scroll-proportion="1.8292683">
+              <caret line="54" column="50" selection-start-line="54" selection-start-column="50" selection-end-line="54" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -143,7 +91,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="e#70#71#0" expanded="false" />
+                <element signature="e#113#114#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -151,11 +102,9 @@
       <file leaf-file-name="LearningJava.class" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LearningJava.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#259#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -194,8 +143,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/BagInterface.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/Stack.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/Queue.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/FixedCapacityStackOfStrings.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/Bag.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/FixedCapacityStackOfStrings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/CheckParentheses.java" />
       </list>
     </option>
   </component>
@@ -210,9 +160,9 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="132" />
+    <option name="x" value="44" />
     <option name="y" value="52" />
-    <option name="width" value="1400" />
+    <option name="width" value="934" />
     <option name="height" value="848" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -238,8 +188,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -297,10 +247,48 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crazcalm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learning_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Learning_java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crazcalm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LearnAlgo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -596,7 +584,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="132" y="52" width="1400" height="848" extended-state="0" />
+    <frame x="44" y="52" width="934" height="848" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -614,15 +602,15 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2642857" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32774192" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3961456" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3264516" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -636,19 +624,19 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28230616" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26485923" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3280318" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -690,6 +678,85 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="78" column="4" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="37" />
           <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1289#1290#0" expanded="false" />
+            <element signature="e#1325#1326#0" expanded="false" />
+            <element signature="e#1349#1350#0" expanded="false" />
+            <element signature="e#1373#1374#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/Bag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+          <folding>
+            <element signature="e#994#995#0" expanded="false" />
+            <element signature="e#1018#1019#0" expanded="false" />
+            <element signature="e#1271#1272#0" expanded="false" />
+            <element signature="e#1317#1318#0" expanded="false" />
+            <element signature="e#1348#1349#0" expanded="false" />
+            <element signature="e#1413#1414#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/FixedCapacityStackOfStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LearningJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#70#71#0" expanded="false" />
+            <element signature="e#113#114#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LearningJava.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1197#1198#0" expanded="false" />
+            <element signature="e#1233#1234#0" expanded="false" />
+            <element signature="e#1257#1258#0" expanded="false" />
+            <element signature="e#1281#1282#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="78" column="4" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="false" />
             <element signature="e#1289#1290#0" expanded="false" />
             <element signature="e#1325#1326#0" expanded="false" />
             <element signature="e#1349#1350#0" expanded="false" />
@@ -703,8 +770,12 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#423#432#0" expanded="true" />
+            <element signature="e#994#995#0" expanded="false" />
+            <element signature="e#1018#1019#0" expanded="false" />
+            <element signature="e#1271#1272#0" expanded="false" />
+            <element signature="e#1317#1318#0" expanded="false" />
+            <element signature="e#1348#1349#0" expanded="false" />
+            <element signature="e#1413#1414#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -736,6 +807,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="78" column="4" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="37" />
           <folding>
+            <element signature="imports" expanded="false" />
             <element signature="e#1289#1290#0" expanded="false" />
             <element signature="e#1325#1326#0" expanded="false" />
             <element signature="e#1349#1350#0" expanded="false" />
@@ -749,8 +821,12 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#423#432#0" expanded="true" />
+            <element signature="e#994#995#0" expanded="false" />
+            <element signature="e#1018#1019#0" expanded="false" />
+            <element signature="e#1271#1272#0" expanded="false" />
+            <element signature="e#1317#1318#0" expanded="false" />
+            <element signature="e#1348#1349#0" expanded="false" />
+            <element signature="e#1413#1414#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -782,6 +858,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="78" column="4" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="37" />
           <folding>
+            <element signature="imports" expanded="false" />
             <element signature="e#1289#1290#0" expanded="false" />
             <element signature="e#1325#1326#0" expanded="false" />
             <element signature="e#1349#1350#0" expanded="false" />
@@ -795,8 +872,12 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#423#432#0" expanded="true" />
+            <element signature="e#994#995#0" expanded="false" />
+            <element signature="e#1018#1019#0" expanded="false" />
+            <element signature="e#1271#1272#0" expanded="false" />
+            <element signature="e#1317#1318#0" expanded="false" />
+            <element signature="e#1348#1349#0" expanded="false" />
+            <element signature="e#1413#1414#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -820,6 +901,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="imports" expanded="false" />
             <element signature="e#1289#1290#0" expanded="false" />
             <element signature="e#1325#1326#0" expanded="false" />
             <element signature="e#1349#1350#0" expanded="false" />
@@ -847,6 +929,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
+            <element signature="imports" expanded="false" />
             <element signature="e#1289#1290#0" expanded="false" />
             <element signature="e#1325#1326#0" expanded="false" />
             <element signature="e#1349#1350#0" expanded="false" />
@@ -916,6 +999,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="78" column="4" selection-start-line="78" selection-start-column="4" selection-end-line="78" selection-end-column="37" />
           <folding>
+            <element signature="imports" expanded="false" />
             <element signature="e#1289#1290#0" expanded="false" />
             <element signature="e#1325#1326#0" expanded="false" />
             <element signature="e#1349#1350#0" expanded="false" />
@@ -951,8 +1035,12 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#423#432#0" expanded="true" />
+            <element signature="e#994#995#0" expanded="false" />
+            <element signature="e#1018#1019#0" expanded="false" />
+            <element signature="e#1271#1272#0" expanded="false" />
+            <element signature="e#1317#1318#0" expanded="false" />
+            <element signature="e#1348#1349#0" expanded="false" />
+            <element signature="e#1413#1414#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -961,7 +1049,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#70#71#0" expanded="false" />
+            <element signature="e#113#114#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -969,16 +1060,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#259#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/github/crazcalm/LearnAlgo/Chapter2/Exercises/FixedCapacityStackOfStrings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74745417">
-          <caret line="39" column="53" selection-start-line="39" selection-start-column="53" selection-end-line="39" selection-end-column="53" />
+        <state vertical-scroll-proportion="1.8292683">
+          <caret line="54" column="50" selection-start-line="54" selection-start-column="50" selection-end-line="54" selection-end-column="50" />
           <folding />
         </state>
       </provider>

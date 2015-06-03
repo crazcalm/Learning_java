@@ -27,6 +27,8 @@ public class FixedCapacityStackOfStrings<Item> {
 
     public int size(){ return N; }
 
+    public boolean isFull(){ return a.length == N; }
+
     public void reSize(int max){
         Item[] temp = (Item[]) new Object[max];
         for(int i=0; i<N; i++){
@@ -50,5 +52,6 @@ public class FixedCapacityStackOfStrings<Item> {
         }
 
         System.out.println("(" + s.size() + " left on stack)");
+        System.out.println("isFull: " + s.isFull());
     }
 }
