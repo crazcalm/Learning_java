@@ -13,10 +13,15 @@ public class Stack <Item> implements Iterable<Item> {
         System.out.println("empty?" + test.isEmpty());
 
         test.push(1);
+        System.out.println(test.peek());
         test.push(2);
+        System.out.println(test.peek());
         test.push(3);
+        System.out.println(test.peek());
         test.push(4);
+        System.out.println(test.peek());
         test.push(5);
+        System.out.println(test.peek());
         System.out.println("add 1,2,3,4,5");
 
         System.out.println("pop: " + test.pop());
@@ -66,6 +71,11 @@ public class Stack <Item> implements Iterable<Item> {
         first = first.next;
         N--;
         return item;
+    }
+
+    public Item peek(){
+        // Returns the item from the top of the stack without popping it
+        return first.item;
     }
 
     public Iterator<Item> iterator()  { return new ListIterator();  }
